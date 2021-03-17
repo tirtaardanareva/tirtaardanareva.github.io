@@ -1,0 +1,12 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: https://tirtaardanareva.github.io/sitemap_index.xml
+Sitemap: https://tirtaardanareva.github.io/us/sitemap/submap_1.xml
+Sitemap: https://tirtaardanareva.github.io/us/sitemap/submap_2.xml
+Sitemap: https://tirtaardanareva.github.io/us/sitemap/submap_3.xml
+Sitemap: https://tirtaardanareva.github.io/us/sitemap/submap_4.xml
